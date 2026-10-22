@@ -36,8 +36,8 @@
 ### By the numbers
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg?v=bf2aa555">
-  <img alt="Repositories, contributions, commits, pull requests, longest streak, years on GitHub" src="assets/numbers-light.svg?v=56da122a" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg?v=28a609cc">
+  <img alt="Repositories, contributions, commits, pull requests, longest streak, years on GitHub" src="assets/numbers-light.svg?v=607114bc" width="100%">
 </picture>
 
 <p align="center"><sub>Numbers refresh nightly from private work. Only totals are published, never repo names.</sub></p>
