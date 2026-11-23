@@ -22,8 +22,8 @@
 ### Last 12 months, wrapped
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/wrapped-dark.svg?v=91107e50">
-  <img alt="Last 12 months: top language, coding hour, busiest day, biggest week" src="assets/wrapped-light.svg?v=91107e50" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wrapped-dark.svg?v=0b0d82ff">
+  <img alt="Last 12 months: top language, coding hour, busiest day, biggest week" src="assets/wrapped-light.svg?v=0b0d82ff" width="100%">
 </picture>
 
 ### Talent tree
@@ -36,8 +36,8 @@
 ### By the numbers
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg?v=777402af">
-  <img alt="Repositories, contributions, commits, pull requests, longest streak, years on GitHub" src="assets/numbers-light.svg?v=bd8b7606" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/numbers-dark.svg?v=3014b4d5">
+  <img alt="Repositories, contributions, commits, pull requests, longest streak, years on GitHub" src="assets/numbers-light.svg?v=232929ff" width="100%">
 </picture>
 
 <p align="center"><sub>Numbers refresh nightly from private work. Only totals are published, never repo names.</sub></p>
